@@ -1,0 +1,22 @@
+{
+  "name": "playwrightts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iToddi/PlayWrightTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iToddi/PlayWrightTS/issues"
+  },
+  "homepage": "https://github.com/iToddi/PlayWrightTS#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.53.0",
+    "@types/node": "^24.0.0"
+  }
+}
